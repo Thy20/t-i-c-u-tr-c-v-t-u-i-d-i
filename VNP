@@ -1,0 +1,7 @@
+echo "# ticu-tr-cvtuidi" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/Thy20/ticu- tr-cvtuidi.git
+ git push -u origin main
